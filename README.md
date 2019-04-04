@@ -17,3 +17,4 @@ Globals:
     WriteMemory_s : FUNCTION : --Safely Write a memory address (SLOW)
  ScriptContext : NUMBER : --The script context address given by RoHack99
  GetLuastate : FUNCTION : --Get a new luastate
+ 
