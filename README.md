@@ -8,8 +8,8 @@ It also has an interesting mod feature that allows user to use.
 The mod API:
 
 Globals:
-  Memory : TABLE :
-    SigScan : FUNCTION : --Scans a sig in the code format
+  TABLE Memory
+    FUNCTION SigScan --Scans a sig in the code format
     SigScanCallFunction : FUNCTION : --Scans a sig and get the function address from the call instruction
     ReadMemory : FUNCTION : --Read a memory address
     WriteMemory : FUNCTION : --Write a memory address
